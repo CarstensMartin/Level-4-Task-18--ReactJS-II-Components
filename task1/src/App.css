@@ -1,0 +1,74 @@
+.gridHeader{
+  display: grid;
+  grid-auto-flow: column;
+  background: black;
+  text-align: center;
+  border-radius: 20px;
+
+}
+.gridHeaderLogoButtons{
+  display: grid;
+  grid-auto-flow: column;
+  background: black;
+  text-align: center;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.allProductDisplay{
+  display: grid;
+  grid-auto-flow: column;
+  gap: 10px;
+}
+.productDisplay{
+  background: gray;
+  text-align: center;
+  border-radius: 20px;
+}
+.productPhoto{
+  height: 300px;
+}
+
+
+.rightButtonHeader{
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+button{
+  border: 1px solid black;
+  cursor: pointer;
+
+}
+
+h2{
+  color: blue;
+  font-size: 3em;
+  background: black;
+  border-radius: 20px;
+}
+h3{
+  text-decoration: underline;
+}
+
+.loginButtonDiv{
+  padding: 20px;
+  background: red;
+  align-content: center;
+  text-align: center;
+  border-radius: 20px;
+}
+.loginButton{
+  border-radius: 5px;
+  background: lime;
+  width: 50%;
+}
+
+.welcomeBackDiv{
+  text-align: center;
+}
+.headerLogo{
+  height: 150px;
+}
+
+
+
