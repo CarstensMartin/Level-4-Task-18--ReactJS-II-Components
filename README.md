@@ -1,5 +1,9 @@
 # Level 4 Task 18 -ReactJS II: Components
 
+## Deployed Task 2
+
+https://carstensmartin.github.io/Level-4-Task-18--Deployed-Task-2/
+
 ## NOTE
 
 For the purpose of showing my project I uploaded 1 file location up. In practice I will CD into the file and commit from there, which will exclude the git ignore files
